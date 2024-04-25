@@ -1,0 +1,18 @@
+C:\Users\abdob\source\repos\Shop Management\Shop Management\bin\Debug\Shop Management.exe.config
+C:\Users\abdob\source\repos\Shop Management\Shop Management\bin\Debug\Shop Management.exe
+C:\Users\abdob\source\repos\Shop Management\Shop Management\bin\Debug\Shop Management.pdb
+C:\Users\abdob\source\repos\Shop Management\Shop Management\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\abdob\source\repos\Shop Management\Shop Management\bin\Debug\Guna.UI2.dll
+C:\Users\abdob\source\repos\Shop Management\Shop Management\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\abdob\source\repos\Shop Management\Shop Management\obj\Debug\Shop Management.csproj.AssemblyReference.cache
+C:\Users\abdob\source\repos\Shop Management\Shop Management\obj\Debug\Shop_Management.Billing.resources
+C:\Users\abdob\source\repos\Shop Management\Shop Management\obj\Debug\Shop_Management.Categories.resources
+C:\Users\abdob\source\repos\Shop Management\Shop Management\obj\Debug\Shop_Management.Customers.resources
+C:\Users\abdob\source\repos\Shop Management\Shop Management\obj\Debug\Shop_Management.items.resources
+C:\Users\abdob\source\repos\Shop Management\Shop Management\obj\Debug\Shop_Management.Login.resources
+C:\Users\abdob\source\repos\Shop Management\Shop Management\obj\Debug\Shop_Management.Properties.Resources.resources
+C:\Users\abdob\source\repos\Shop Management\Shop Management\obj\Debug\Shop Management.csproj.GenerateResource.cache
+C:\Users\abdob\source\repos\Shop Management\Shop Management\obj\Debug\Shop Management.csproj.CoreCompileInputs.cache
+C:\Users\abdob\source\repos\Shop Management\Shop Management\obj\Debug\Shop Management.csproj.CopyComplete
+C:\Users\abdob\source\repos\Shop Management\Shop Management\obj\Debug\Shop Management.exe
+C:\Users\abdob\source\repos\Shop Management\Shop Management\obj\Debug\Shop Management.pdb
